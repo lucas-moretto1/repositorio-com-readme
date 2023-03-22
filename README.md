@@ -11,19 +11,19 @@ README ✔
 
 ## Como utilizar
 
-1- Clone o projeto
+1- Clone o projeto:
 
 ```
 git clone
 ```
 
-2- Acesse a pasta do projeto
+2- Acesse a pasta do projeto:
 
 ```
 cd repositorio-com-readme
 ```
 
-3- Abrir com o Visual Studio Code
+3- Abrir com o Visual Studio Code:
 
 ```
 code .
