@@ -2,7 +2,7 @@
 Um projeto de teste com um arquivo
 README ✔
 
-[<img src="./tela.gif.gif" alt="gif da tela do DevQuest">](https://google.com)
+[<img src="./tela.gif.gif" alt="gif da tela do DevQuest">]
 
 ## Tecnologias utilizadas (ex)
 - HTML
